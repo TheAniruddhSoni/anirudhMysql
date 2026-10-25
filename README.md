@@ -1,2 +1,2 @@
-# anirudhMysql
+# aniruddhMysql
 mysql related 
